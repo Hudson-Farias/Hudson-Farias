@@ -22,6 +22,7 @@
         <div>
           <a target="_blank" href="https://www.linkedin.com/in/hudsonfarias/">
             <img width="40" height="40" src="https://img.icons8.com/ios/50/linkedin.png" alt="linkedin"/>
+            <img width="40" height="40" src="https://img.icons8.com/ios/50/linkedin.png" alt="linkedin"/>
           </a>
           <a target="_blank" href="https://discord.com/users/1127594477536694332">
             <img width="40" height="40" src="https://img.icons8.com/ios/50/discord-logo--v1.png" alt="discord-logo--v1"/>
