@@ -15,7 +15,7 @@
         <p>Age: 21</p>
         <p>Gender: Male</p>
         <p>Profession: Software Developer</p>
-        <p>Experience: 3 Years</p>
+        <p>Experience: 4 Years</p>
         <p>Programming Languages: Python / TypeScript / PhP</p>
         <p>Main Frameworks: FastAPI / Playwright / NextJS / Tailwind</p>
         <p>Others: Git/ SQL / NoSQL / Docker</p>
