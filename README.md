@@ -26,7 +26,7 @@
           <a target="_blank" href="https://discord.com/users/1127594477536694332">
             <img width="40" height="40" src="https://img.icons8.com/ios/50/discord-logo--v1.png" alt="discord-logo--v1"/>
           </a>
-          <a target="_blank" href="https://portifolio-bay-three-17.vercel.app">
+          <a target="_blank" href="https://hudsondev.tech">
             <img width="40" height="40" src="https://img.icons8.com/ios/50/domain--v1.png" alt="domain--v1"/>
           </a>
           <a target="_blank" href="mailto:hudson.farias.dev@gmail.com">
