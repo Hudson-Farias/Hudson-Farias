@@ -32,7 +32,7 @@
           <a target="_blank" href="mailto:hudson.farias.dev@gmail.com">
             <img width="40" height="40" src="https://img.icons8.com/ios/50/new-post--v1.png" alt="new-post--v1"/>
           </a>
-          <a target="_blank" href="https://wa.me/5521995021812">
+          <a target="_blank" href="https://wa.me/5521996889408">
             <img width="40" height="40" src="https://img.icons8.com/ios/50/whatsapp--v1.png" alt="whatsapp--v1"/>
           </a>
         </div>
