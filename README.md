@@ -11,7 +11,7 @@
         <p>hudson-farias@127.0.0.1</p>
         <p>-----------</p>
         <p>Location: Brazil - Rio de Janeiro</p>
-        <p>Languages: Portuguese / English / Japonese</p>
+        <p>Languages: Portuguese / English </p>
         <p>Age: 21</p>
         <p>Gender: Male</p>
         <p>Profession: Software Developer</p>
